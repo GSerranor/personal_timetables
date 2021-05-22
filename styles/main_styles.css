@@ -1,3 +1,8 @@
 h1 {
   color: black;
+  text-align: center;
+}
+img {
+  height: 100%;
+  width: 100%;
 }
