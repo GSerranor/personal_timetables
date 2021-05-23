@@ -92,7 +92,8 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-.mainbox {
+.mainbox,
+img {
   margin-left: auto;
   margin-right: auto;
   width: 575px;
@@ -130,4 +131,7 @@ body {
   background: fff;
   opacity: 1;
   position: fixed;
+}
+img {
+  opacity: 1;
 }
